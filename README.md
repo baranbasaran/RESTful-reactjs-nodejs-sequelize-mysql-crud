@@ -6,9 +6,11 @@ After downloading, configure your MySQL database settings,then follow the comman
 
 
 Start project for backend
+
 cd back
 npm install→npm run dev
 
 Start project for frontend
+
 cd front
 npm install → npm start
